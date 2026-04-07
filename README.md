@@ -87,10 +87,10 @@
 
 ```bash
 # 🎯 Clone the repository
-git clone https://github.com/404unkown/404-XMD.git
+git clone https://github.com/atotdf-create/prussprosh.git
 
 # 📁 Navigate to directory
-cd 404-XMD
+cd plusprossh
 
 # 📦 Install dependencies
 npm install

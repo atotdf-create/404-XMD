@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🤖+404+TECH+WHATSAPP+BOT+🚀;✨+ADVANCED+AI+POWERED+✨;🔥+MULTI-FUNCTIONAL+FEATURES+🔥" alt="TDF TECH WhatsApp Bot">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🤖+TDF+WHATSAPP+BOT+🚀;✨+ADVANCED+AI+POWERED+✨;🔥+MULTI-FUNCTIONAL+FEATURES+🔥" alt="TDF TECH WhatsApp Bot">
 </p>
 
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=404+TECH&fontSize=50&fontColor=000000&animation=fadeIn&fontAlign=50&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=TDF&fontSize=50&fontColor=000000&animation=fadeIn&fontAlign=50&fontAlignY=40" />
 
 <!-- Glowing Badges -->
 <div align="center">

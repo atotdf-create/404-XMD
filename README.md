@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🤖+404+TECH+WHATSAPP+BOT+🚀;✨+ADVANCED+AI+POWERED+✨;🔥+MULTI-FUNCTIONAL+FEATURES+🔥" alt="404 TECH WhatsApp Bot">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🤖+404+TECH+WHATSAPP+BOT+🚀;✨+ADVANCED+AI+POWERED+✨;🔥+MULTI-FUNCTIONAL+FEATURES+🔥" alt="TDF TECH WhatsApp Bot">
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 [![🚀 DEPLOY NOW](https://img.shields.io/badge/🚀_DEPLOY_ON_KATABUMP-FF69B4?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)](https://katabump.com)
 [![💻 LIVE DEMO](https://img.shields.io/badge/💻_LIVE_DEMO-00FF00?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://four04-the-goat.onrender.com)
 [![📱 WHATSAPP](https://img.shields.io/badge/📱_WHATSAPP_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/+254769769295)
-[![🌐 WEBSITE](https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://404-tech.vercel.app)
+[![🌐 WEBSITE](https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://plussprosh.vercel.app)
 
 </div>
 
